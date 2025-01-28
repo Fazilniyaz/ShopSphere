@@ -1,0 +1,121 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 245.67,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+        "price": 150.32,
+        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            },
+            {
+                "image": "data:image/jpeg;base64,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"
+            }
+
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 440.57,
+        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 250.45,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/6.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": 767.32,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/7.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+        "price": 15.46,
+        "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Campus Men's Maxico Running Shoes",
+        "price": 10.12,
+        "description": "The high raised back cover with extra padding.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
